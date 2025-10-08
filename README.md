@@ -1,120 +1,105 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
+# Hi there, I'm Muhammad Faishol Wijanarko 👋
 
 <div align="center">
-  <a href="https://linkedin.com/in/[your-profile]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://youtube.com/@[your-channel]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  </a>
-  <a href="https://twitter.com/[your-handle]" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Enthusiast;Mobile+Developer;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
-###
+## 🚀 About Me
+
+I'm a passionate developer who loves coding and building innovative solutions. Currently focusing on backend development with Laravel and mobile app development with Flutter.
+
+- 🔭 I'm currently working on **Warung Keuangan Backend** and **Flutter Learning Projects**
+- 🌱 I'm currently learning **Mobile Development with Flutter** and **Advanced Laravel**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Laravel, PHP, Flutter, and Web Development**
+- 📫 How to reach me: Check my profile for contact details
+- ⚡ Fun fact: I love exploring new technologies and frameworks
+
+## 🛠️ Tech Stack
+
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frameworks & Libraries
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ISOLCODING.ISOLCODING&"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ISOLCODING&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
-###
-
-<h1 align="center">Hey there 👋 I'm ISOLCODING</h1>
-
-###
-
-<h3 align="left">👨‍💻 About Me</h3>
-
-###
-
-<p align="left">I'm a passionate full-stack developer from Indonesia<br><br>- 🔭 I'm working on IoT projects and web applications<br>- 📚 I'm currently learning Laravel, React, and advanced JavaScript<br>- ⚡ In my free time I build Arduino projects and contribute to open source<br>- 💡 Passionate about creating innovative solutions and automation systems</p>
-
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="40" alt="jquery logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" height="40" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ISOLCODING&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISOLCODING&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-<h3 align="left">🚀 Featured Projects</h3>
+## 🏆 Featured Projects
 
-###
+### 🏪 [Warung Keuangan Backend](https://github.com/ISOLCODING/warung-keuangan-backend)
+Backend system for financial management application built with Laravel Blade template engine.
 
-<div align="left">
+### 📱 [Flutter Learning Projects](https://github.com/ISOLCODING/Belajar-mobiledevelopemnt)
+Collection of mini-projects to learn Flutter fundamentals. Each folder contains examples of widget implementation and important Flutter concepts.
+
+### 💼 [Portfolio PHP](https://github.com/ISOLCODING/Portofolio_PHP)
+Personal portfolio website built with PHP showcasing my projects and skills.
+
+### 🔄 [Laravel Inertia](https://github.com/ISOLCODING/laravel-inertia)
+Modern full-stack application using Laravel with Inertia.js and TypeScript for seamless SPA experience.
+
+### 📦 [Inventory Management](https://github.com/ISOLCODING/inventory)
+Inventory management system built with Laravel Blade for efficient stock tracking.
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISOLCODING&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🤝 Connect with Me
+
+<div align="center">
   
-#### 🌱 [Sistem Monitoring Tanaman Otomatis](https://github.com/ISOLCODING/Sistem-Monitoring-Tanaman-Otomatis)
-IoT-based plant monitoring system with ESP32 and sensors
-
-#### 💼 [Sistem Informasi Koperasi](https://github.com/ISOLCODING/Sistem-Informasi-Koperasi)
-Cooperative management system with PHP and MySQL
-
-#### 📦 [Sistem Inventory Barang](https://github.com/ISOLCODING/Sistem-Inventory-Barang)
-Inventory management system for business operations
-
-#### 🧮 [Kalkulator Cepat](https://github.com/ISOLCODING/Kalkulator-Cepat)
-Fast and responsive web calculator
-
-#### 🎨 [Website Portfolio Sederhana](https://github.com/ISOLCODING/Website-Portfolio-Sederhana)
-Simple portfolio website template
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ISOLCODING)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-faishol-wijanarko-730b5a255)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/faishol_store)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rrqhoshi891@gmail.com)
 
 </div>
 
-###
-
-<h3 align="left">🔥 My Stats</h3>
-
-###
+## 💡 Quote
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ISOLCODING&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ISOLCODING&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=ISOLCODING&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ISOLCODING/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=ISOLCODING&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100" />
+  
+  **⭐️ From [ISOLCODING](https://github.com/ISOLCODING)**
+  
 </div>
-
-###
